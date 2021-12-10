@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+  body{
+   --bs-body-bg: #161616;
+    a{color:#ECDBBA;
+    i{color:#ECDBBA};
+
+    }
+    a:hover{color:#C84B31}
+ }
+h2{color:#C84B31;}
+
+label{color:#ECDBBA ;}
+
+button{ background-color: #ECDBBA !important;
+           color:#346751 !important;
+
+}
+button:hover{
+  color:#C84B31 !important;
+}
+ .alert-danger{background-color:#346751  !important;
+ color: #161616!important;}
